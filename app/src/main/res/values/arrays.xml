@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="datas">
+        <item>서울특별시</item>
+        <item>부산광역시</item>
+        <item>인천광역시</item>
+        <item>대전광역시</item>
+        <item>경기파주시</item>
+        <item>충청도청주</item>
+        <item>서울특별시</item>
+        <item>제주특별시</item>
+        <item>인천광역시</item>
+        <item>대전광역시</item>
+        <item>경기파주시</item>
+        <item>충청도청주</item>
+    </string-array>
+
+</resources>
